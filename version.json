@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.1.1.apk",
-  "notes": "운동 기록·앱 내 업데이트 추가 (첫 자동 배포 테스트)",
+  "versionCode": 6,
+  "versionName": "2.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.1.2.apk",
+  "notes": "입력창이 키보드에 가려지던 문제 수정 (설정·운동 입력)",
   "date": "2026-09-14"
 }
