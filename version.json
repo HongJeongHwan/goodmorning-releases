@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "2.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.1.2.apk",
-  "notes": "입력창이 키보드에 가려지던 문제 수정 (설정·운동 입력)",
+  "versionCode": 7,
+  "versionName": "2.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.2.0.apk",
+  "notes": "복용 약 기록·사진 인식·약과 수면 리듬 비교 추가",
   "date": "2026-09-14"
 }
