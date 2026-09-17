@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.2.1.apk",
-  "notes": "다크 테마에서 날짜 등 글자가 검게 보이던 문제 수정",
+  "versionCode": 9,
+  "versionName": "2.2.2",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.2.2.apk",
+  "notes": "리듬 흐름 차트에 세로축 시각 표시와 읽는 법 추가",
   "date": "2026-09-17"
 }
