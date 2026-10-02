@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.3.1.apk",
-  "notes": "사진 인식: AI 서버 혼잡 시 다른 모델로 자동 전환, 연결 끊김 처리",
-  "date": "2026-09-29"
+  "versionCode": 12,
+  "versionName": "2.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.4.0.apk",
+  "notes": "감사일기: 오늘 감사한 일 3가지 기록, 연속일·총 일수, 저녁 알림",
+  "date": "2026-10-03"
 }
