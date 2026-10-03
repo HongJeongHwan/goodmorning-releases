@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.2.apk",
-  "notes": "업데이트를 앱 열 때마다 확인, 약 탭 복용 시각순",
+  "versionCode": 18,
+  "versionName": "2.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.8.0.apk",
+  "notes": "지금 할 일에 찬물샤워 추가 · 찬물샤워 기록 화면",
   "date": "2026-10-03"
 }
