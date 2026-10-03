@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.6.0.apk",
-  "notes": "약마다 복용 시각 알림(폰·워치, 먹었어요 버튼), 취침 전 워치 착용·배터리 알림",
+  "versionCode": 15,
+  "versionName": "2.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.0.apk",
+  "notes": "화면 개편: 하단 탭(오늘·수면·운동·약), 지금 할 일·한눈에 요약",
   "date": "2026-10-03"
 }
