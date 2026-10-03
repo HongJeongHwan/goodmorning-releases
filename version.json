@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "2.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.0.apk",
-  "notes": "화면 개편: 하단 탭(오늘·수면·운동·약), 지금 할 일·한눈에 요약",
+  "versionCode": 16,
+  "versionName": "2.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.1.apk",
+  "notes": "약 탭을 복용 시각순으로 표시",
   "date": "2026-10-03"
 }
