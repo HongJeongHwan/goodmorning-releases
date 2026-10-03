@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "2.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.4.0.apk",
-  "notes": "감사일기: 오늘 감사한 일 3가지 기록, 연속일·총 일수, 저녁 알림",
+  "versionCode": 13,
+  "versionName": "2.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.5.0.apk",
+  "notes": "Zone 2 심박 구간·휴식기 심박 관리·실시간 코칭(워치 진동)·걷기/워치 운동 자동 감지",
   "date": "2026-10-03"
 }
