@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.1.apk",
-  "notes": "약 탭을 복용 시각순으로 표시",
+  "versionCode": 17,
+  "versionName": "2.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.7.2.apk",
+  "notes": "업데이트를 앱 열 때마다 확인, 약 탭 복용 시각순",
   "date": "2026-10-03"
 }
