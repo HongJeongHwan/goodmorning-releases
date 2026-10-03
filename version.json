@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.5.0.apk",
-  "notes": "Zone 2 심박 구간·휴식기 심박 관리·실시간 코칭(워치 진동)·걷기/워치 운동 자동 감지",
+  "versionCode": 14,
+  "versionName": "2.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.6.0.apk",
+  "notes": "약마다 복용 시각 알림(폰·워치, 먹었어요 버튼), 취침 전 워치 착용·배터리 알림",
   "date": "2026-10-03"
 }
