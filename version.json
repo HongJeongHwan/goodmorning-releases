@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.8.1.apk",
-  "notes": "찬물샤워 시각을 할 일 줄에서 바로 변경",
-  "date": "2026-10-03"
+  "versionCode": 20,
+  "versionName": "2.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.0.apk",
+  "notes": "폰 걸음도 반영 (워치·폰 중 큰 값)",
+  "date": "2026-10-04"
 }
