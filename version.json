@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "2.13.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.13.0.apk",
-  "notes": "논문 지표·연구팀 모델 참고값, 생체 시계 매개변수 연구팀 값으로",
+  "versionCode": 32,
+  "versionName": "2.14.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.14.0.apk",
+  "notes": "메일알림 임시 탭(지정한 발신자의 새 메일을 워치로)",
   "date": "2026-10-05"
 }
