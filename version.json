@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "2.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.11.0.apk",
-  "notes": "논문과 같은 생체 시계 모델로 예보, 논문 원문 보기",
+  "versionCode": 29,
+  "versionName": "2.11.1",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.11.1.apk",
+  "notes": "설명 페이지: 논문과의 범위, 워치 차이·한계",
   "date": "2026-10-05"
 }
