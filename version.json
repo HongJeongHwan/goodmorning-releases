@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "2.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.4.apk",
-  "notes": "하루 전체 거리와 운동 기록 합계 구분, 앱 기록에 걸음·거리 저장",
+  "versionCode": 25,
+  "versionName": "2.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.5.apk",
+  "notes": "설정을 열면 숫자 키보드가 화면을 가리던 문제 수정",
   "date": "2026-10-05"
 }
