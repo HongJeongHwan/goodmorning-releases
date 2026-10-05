@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "2.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.10.0.apk",
-  "notes": "설정 탭, Zone 2·수면 연구 설명 페이지",
+  "versionCode": 28,
+  "versionName": "2.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.11.0.apk",
+  "notes": "논문과 같은 생체 시계 모델로 예보, 논문 원문 보기",
   "date": "2026-10-05"
 }
