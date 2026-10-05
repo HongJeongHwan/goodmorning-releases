@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2.9.3",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.3.apk",
-  "notes": "같은 운동의 앱·워치 기록을 한 줄로 표시",
+  "versionCode": 24,
+  "versionName": "2.9.4",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.4.apk",
+  "notes": "하루 전체 거리와 운동 기록 합계 구분, 앱 기록에 걸음·거리 저장",
   "date": "2026-10-05"
 }
