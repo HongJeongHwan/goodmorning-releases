@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "2.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.2.apk",
-  "notes": "Zone 2 워치 연결이 끊긴 뒤 다시 붙지 않던 문제 수정",
+  "versionCode": 23,
+  "versionName": "2.9.3",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.3.apk",
+  "notes": "같은 운동의 앱·워치 기록을 한 줄로 표시",
   "date": "2026-10-05"
 }
