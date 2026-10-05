@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "2.9.5",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.5.apk",
-  "notes": "설정을 열면 숫자 키보드가 화면을 가리던 문제 수정",
+  "versionCode": 26,
+  "versionName": "2.9.6",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.6.apk",
+  "notes": "Zone 2 버튼 이름을 '코칭 시작'으로",
   "date": "2026-10-05"
 }
