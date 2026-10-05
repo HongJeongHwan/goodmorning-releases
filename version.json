@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2.14.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.14.0.apk",
-  "notes": "메일알림 임시 탭(지정한 발신자의 새 메일을 워치로)",
+  "versionCode": 33,
+  "versionName": "2.14.1",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.14.1.apk",
+  "notes": "업데이트 확인 버튼이 반응 없던 문제 수정",
   "date": "2026-10-05"
 }
