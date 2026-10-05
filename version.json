@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.9.6",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.9.6.apk",
-  "notes": "Zone 2 버튼 이름을 '코칭 시작'으로",
+  "versionCode": 27,
+  "versionName": "2.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.10.0.apk",
+  "notes": "설정 탭, Zone 2·수면 연구 설명 페이지",
   "date": "2026-10-05"
 }
