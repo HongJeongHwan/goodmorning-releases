@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.12.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.12.0.apk",
-  "notes": "리듬 차트·코칭도 생체 시계 기준, 평소=전체 기록",
+  "versionCode": 31,
+  "versionName": "2.13.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.13.0.apk",
+  "notes": "논문 지표·연구팀 모델 참고값, 생체 시계 매개변수 연구팀 값으로",
   "date": "2026-10-05"
 }
