@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "2.15.4",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.4.apk",
-  "notes": "같은 밤 수면 기록이 다른 날짜로 복사되지 않게 막음",
+  "versionCode": 39,
+  "versionName": "2.16.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.0.apk",
+  "notes": "기상 시각 고치기: 워치를 푼 뒤 잠으로 기록된 부분 잘라내기",
   "date": "2026-10-06"
 }
