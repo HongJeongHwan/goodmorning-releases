@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "2.15.2",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.2.apk",
-  "notes": "저녁에 오늘 수면 기록이 전날 밤으로 바뀌던 문제 수정",
+  "versionCode": 37,
+  "versionName": "2.15.3",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.3.apk",
+  "notes": "워치 수면 칸 날짜 판단 개선, 동기화 문구 수정",
   "date": "2026-10-06"
 }
