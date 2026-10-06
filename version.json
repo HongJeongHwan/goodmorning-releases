@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "2.15.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.1.apk",
-  "notes": "모든 알림 진동만 · Zone 2 낮으면 3번·높으면 2번 진동",
+  "versionCode": 36,
+  "versionName": "2.15.2",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.2.apk",
+  "notes": "저녁에 오늘 수면 기록이 전날 밤으로 바뀌던 문제 수정",
   "date": "2026-10-06"
 }
