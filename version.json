@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "2.14.1",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.14.1.apk",
-  "notes": "업데이트 확인 버튼이 반응 없던 문제 수정",
-  "date": "2026-10-05"
+  "versionCode": 34,
+  "versionName": "2.15.0",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.15.0.apk",
+  "notes": "운동 기록을 누르면 거리별 심박 그래프·심박 구간·km 구간을 보여 주는 상세 화면",
+  "date": "2026-10-06"
 }
