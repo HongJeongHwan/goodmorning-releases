@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.16.0",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.0.apk",
-  "notes": "기상 시각 고치기: 워치를 푼 뒤 잠으로 기록된 부분 잘라내기",
-  "date": "2026-10-06"
+  "versionCode": 40,
+  "versionName": "2.16.1",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.1.apk",
+  "notes": "워치 알림(약·메일·Zone 2) 때 워치에서 소리가 나지 않고 진동만 옵니다",
+  "date": "2026-10-07"
 }
