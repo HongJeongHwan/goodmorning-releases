@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "2.16.2",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.2.apk",
-  "notes": "Zone 2 구간이 지나치게 높게 잡히던 문제 수정 (Karvonen 여유심박 50–60%, 관측 최대심박은 30초 이상 이어진 값만)",
-  "date": "2026-10-17"
+  "versionCode": 42,
+  "versionName": "2.16.3",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.3.apk",
+  "notes": "자정 넘겨 다시 열어도 기분·지금 할 일이 오늘 날짜로 바뀌게 수정",
+  "date": "2026-10-18"
 }
