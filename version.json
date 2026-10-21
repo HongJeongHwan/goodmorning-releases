@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2.16.4",
-  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.4.apk",
-  "notes": "Zone 2 구간을 나이 기준으로, 코칭 기록이 사라지던 문제 수정",
+  "versionCode": 44,
+  "versionName": "2.16.5",
+  "apkUrl": "https://raw.githubusercontent.com/HongJeongHwan/goodmorning-releases/main/goodmorning-v2.16.5.apk",
+  "notes": "Zone 2 시간이 적게 잡히던 문제·휴식기 심박 튐 수정",
   "date": "2026-10-21"
 }
